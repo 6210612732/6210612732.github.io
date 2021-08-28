@@ -7,7 +7,7 @@
 - Blood Type : O
 - Graduated from : Satri Angthong School
 
-<img src="pic.jpg"  width ="100"height="125"/>
+<img src="pic.jpg"  width ="100" height="125"/>
 
 
 
